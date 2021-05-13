@@ -1,16 +1,11 @@
-### Hi there 👋
+# Hi there 👋😄
+# These are my information 👇🙂
+- i'm mohammad
+- i'm learning python🐍 and programing
+### my telegram :point_down:
+- [click here for going to my telegram private message](https://telegram.me/pvwwx)
+- [click here for going to my telegram channel](https://telegram.me/pysources)
 
-<!--
-**pvww/pvww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+print("Finish my information")
+```
