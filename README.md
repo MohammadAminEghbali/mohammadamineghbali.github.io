@@ -1,6 +1,6 @@
 # 💫About Me :
-seedling I’m currently learning Django, JS, HTML, CSS, and some other things
-man_technologist All of my projects are available at https://github.com/pvww
+- 🌱 I’m currently learning Django, JS, HTML, CSS, and some other things
+- 👨‍💻 All of my projects are available at https://github.com/pvww
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pvwwx) 
