@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🌱 I’m currently learning Django, JS, HTML, CSS, and some other things
+- 🌱 I’m currently learning Django, JS, HTML, CSS, and etc.
 - 👨‍💻 All of my projects are available at https://github.com/pvww
 
 ## 🌐Socials
